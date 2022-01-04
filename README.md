@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# Weather API - ReactJS Version
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+<div>
+<b>Quick menu:</b>
+<a href="https://theultimateapichallenge.com/weather-api-react" target="_blank" rel="noopener noreferrer"
+    style="padding:0.35rem 0.7rem;
+    color: black;
+    background: #BDFFF3;
+    border-radius:10px;
+    font-size:0.85rem;
+    font-weight:600;">Challenge Page</a> |
+<a href="https://www.metaweather.com/api" target="_blank" rel="noopener noreferrer"
+    style="padding:0.35rem 0.7rem;
+    color: black;
+    background: #F1DEDE;
+    border-radius:10px;
+    font-size:0.85rem;
+    font-weight:600;">Official API Docs</a> |
+<a href="https://youtu.be/qsSCfN-PZF4" target="_blank" rel="noopener noreferrer"
+    style="padding:0.35rem 0.7rem;
+    color: black;
+    background: #FE938C;
+    border-radius:10px;
+    font-size:0.85rem;
+    font-weight:600;">YouTube Video</a> 
+</div>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>Hands down, the most popular API project for beginners must be the weather app API. We will build the weather app using javascript and ReactJS hooks, async/await as well as AXIOS and CSS modules!</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p>The ReactJS Weather API Challenge will not only include working with more complex response, but it comes with a twist. Often times APIs aren't perfectly "fitting" into what the interface expects, so this challenge took a bit of a different direction and is about making some data manipulation before showing it to the user! And it's my ultimate favourite part about it!</p>
 
-### `npm test`
+<p>You will learn how to use Hooks in ReactJS, how to create your own custom ones too, we refactor some functions and check that our code doesn't break depending on the response we're getting from the API. It's gonna be fun and challenging, but don't give up!</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p>Feel free to try out first yourself or jump on the YouTube video from the start, find what works best fo you and enjoy! 🐣
+</p>
 
-### `npm run build`
+### Tech stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+Core:
+- CSS Modules
+- React.js
+- Hooks
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Communication tool:
+- axios
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prerequisites
 
-### `npm run eject`
+```
+Knowledge level:
+basic understanding of HTML, CSS and JavaScript
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Tech:
+a computer/laptop to copy the files to with a code editor of your choice
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Preview
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="/preview.png" height="500" style="border-radius:10px;margin-bottom:1rem;" />
